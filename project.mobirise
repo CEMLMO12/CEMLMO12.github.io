@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Página",
+    "name": "Bem Vindo (a)",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -45,7 +45,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Página",
+        "title": "Bem Vindo (a)",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
